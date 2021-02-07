@@ -1,4 +1,4 @@
-body {
+ body {
     padding: 0;
     margin: 0;
     background: #f2f6e9;
@@ -21,7 +21,7 @@ body {
     justify-content: flex-end;
 }
 .header {
-    background-image: url('https://www.austinchronicle.com/imager/b/250wide/2315539/bd6d/akira.jpg');
+    background-image: url('https://lh3.googleusercontent.com/oLCPO4JD5rc39S-7gIxSl-_wpQA_H9iuz8YECp2uCqdQm4AvNUSD2ffoaYJ7PuEyV0T2bg=s120');
     background-size: cover;
     background-position: center;
     position: relative;
