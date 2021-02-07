@@ -22,7 +22,7 @@
 }
 .header {
     background-image: url('https://lh3.googleusercontent.com/3JlYm1x-ACirGPoHI-bkOKNAcu83mXMztHmCANaWlrjpI2aTifqwbUx8XkTMdbVYmtK3bA=s152');
-    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
     background-size: cover;
     background-position: center;
     position: relative;
