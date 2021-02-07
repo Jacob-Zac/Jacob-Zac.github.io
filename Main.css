@@ -55,7 +55,7 @@
     border:1px solid #33cc33;
     background:#33cc33;
     border-radius: 0;
-    color:##33cc33;
+    color:#fff;
 }
 .description button:hover {
     border:1px solid #fff;
@@ -65,7 +65,7 @@
 .features {
     margin: 4em auto;
     padding: 1em;
-    position: relative;
+    position: relative;  
 }
 .feature-title {
     color: #333;
