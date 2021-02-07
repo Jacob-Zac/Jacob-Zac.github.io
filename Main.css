@@ -20,3 +20,5 @@ body {
 .navbar-collapse {
     justify-content: flex-end;
 }
+<header class="page-header header container-fluid">
+</header>
