@@ -52,16 +52,16 @@
     background: rgba(0, 0, 0, 0.6);
 }
 .description button {
-    border:1px solid #000000;
-    background:#66ff66;
+    border:1px solid #6ab446;
+    background:#6ab446;
     border-radius: 0;
-    color:#ffffff;
+    color:#fff;
 }
 
 .description button:hover {
-    border:1px solid #000000;
-    background:#000000;
-    color:#ffffff;
+    border:1px solid #fff;
+    background:#fff;
+    color:#000;
 }
 .features {
     margin: 4em auto;
